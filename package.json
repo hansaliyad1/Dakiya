@@ -1,7 +1,7 @@
 {
-  "name": "mean-ang2",
+  "name": "Dakiya",
   "version": "1.0.0",
-  "description": "MEAN Stack with Angular 2",
+  "description": "We Pick Up Stuffs for You",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial.git"
+    "url": "git+https://github.com/hansaliyad1/Dakiya.git"
   },
   "keywords": [
     "MEAN",
@@ -18,12 +18,12 @@
     "2",
     "Application"
   ],
-  "author": "David Acosta",
+  "author": "Dharmang Hansaliya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial/issues"
+    "url": "https://github.com/hansaliyad1/Dakiya/issues"
   },
-  "homepage": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial#readme",
+  "homepage": "https://github.com/hansaliyad1/Dakiya#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.2",
